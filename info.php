@@ -2,6 +2,6 @@
 
 // mrkenzí
 phpinfo();
-//eeee
+//eeee   MASTER
 
 ?>
