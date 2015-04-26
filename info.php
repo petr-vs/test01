@@ -1,6 +1,7 @@
 <?php
 
-infophp();
-
+// mrkenzí
+phpinfo();
+//eeee
 
 ?>
