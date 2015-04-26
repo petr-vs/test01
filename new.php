@@ -9,9 +9,10 @@ include_once '';
  */
 phpinfo();
 for ($i = 0; $i < 100; $i++) {
-    sdfsdfsdf($i);
-    if(true){
-        sdfsdf();
+    $b = true;
+    if($b){
+       $i++;
+       sdfsdfsdfsfff();
     }
     else{
         
